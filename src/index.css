@@ -1,0 +1,12 @@
+.card {
+  -webkit-transition: all 100ms ease-in-out;
+  transition: all 100ms ease-in-out;
+  border: none;
+  -webkit-box-shadow: 0 1px 7px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 7px rgba(0, 0, 0, 0.05);
+}
+
+.card:hover {
+  transform: scale(1.04);
+  border: none;
+}

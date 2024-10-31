@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "game_name": "Blackjack",
+    "player_name": "Bob Miller",
+    "opponent_name": "Blackjack",
+    "betting_amount": 28,
+    "winning_amount": 80,
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "position": "4th",
+    "date": "22-10-2024"
+  },
+  {
+    "id": 2,
+    "game_name": "Rummy",
+    "player_name": "Charlie Davis",
+    "opponent_name": "Liam Allen",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 34,
+    "winning_amount": 70,
+    "position": "5th",
+    "date": null
+  },
+  {
+    "id": 3,
+    "game_name": "Poker",
+    "player_name": "David Wilson",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "opponent_name": "Blackjack",
+    "betting_amount": 45,
+    "winning_amount": 80,
+    "position": "4th",
+    "date": null
+  },
+  {
+    "id": 4,
+    "game_name": "Casino War",
+    "player_name": "Franklin Brown",
+    "opponent_name": "Bob Miller",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 22,
+    "winning_amount": 50,
+    "position": "6th",
+    "date": null
+  },
+  {
+    "id": 5,
+    "game_name": "Poker",
+    "player_name": "Grace Harris",
+    "opponent_name": "Tina Mitchell",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 30,
+    "position": "8th",
+    "date": null
+  },
+  {
+    "id": 6,
+    "game_name": "Poker",
+    "player_name": "Henry Clark",
+    "opponent_name": "Sam Anderson",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 90,
+    "position": "7th",
+    "date": null
+  },
+  {
+    "id": 7,
+    "game_name": "Poker",
+    "player_name": "Isabella Lewis",
+    "opponent_name": "Rachel Parker",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 120,
+    "position": "3rd",
+    "date": null
+  },
+  {
+    "id": 8,
+    "game_name": "Poker",
+    "player_name": "Jack Moore",
+    "opponent_name": "Quinn Turner",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 200,
+    "position": "1st",
+    "date": null
+  },
+  {
+    "id": 9,
+    "game_name": "Poker",
+    "player_name": "Kate Hall",
+    "opponent_name": "Paul Wright",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 100,
+    "position": "2nd",
+    "date": null
+  },
+  {
+    "id": 10,
+    "game_name": "Poker",
+    "player_name": "Liam Allen",
+    "opponent_name": "Olivia King",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 50,
+    "position": "6th",
+    "date": null
+  },
+  {
+    "id": 11,
+    "game_name": "Poker",
+    "player_name": "Mia Scott",
+    "opponent_name": "Nathan Young",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 60,
+    "position": "5th",
+    "date": null
+  },
+  {
+    "id": 12,
+    "game_name": "Poker",
+    "player_name": "David Wilson",
+    "opponent_name": "Blackjack",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 40,
+    "position": "7th",
+    "date": null
+  },
+  {
+    "id": 13,
+    "game_name": "Poker",
+    "player_name": "David Wilson",
+    "opponent_name": "Blackjack",
+    "wallet_id": "fcSROLoBFfMzYSvNbRnk",
+    "betting_amount": 45,
+    "winning_amount": 20,
+    "position": "9th",
+    "date": null
+  }
+]

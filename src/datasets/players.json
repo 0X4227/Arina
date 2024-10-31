@@ -1,0 +1,90 @@
+[
+  {
+    "name": "clamn",
+    "img": "/user.png"
+  },
+  {
+    "name": "lionesquex",
+    "img": "/user.png"
+  },
+  {
+    "name": "jjagca",
+    "img": "/user.png"
+  },
+  {
+    "name": "Jane",
+    "img": "/user.png"
+  },
+  {
+    "name": "Jenny",
+    "img": "/user.png"
+  },
+  {
+    "name": "James",
+    "img": "/user.png"
+  },
+  {
+    "transactions": [
+      {
+        "id": 1,
+        "type": "credit",
+        "amount": 100,
+        "date": "2024-10-17",
+        "description": "Salary credited"
+      },
+      {
+        "id": 2,
+        "type": "debit",
+        "amount": 50,
+        "date": "2024-10-16",
+        "description": "Grocery shopping"
+      },
+      {
+        "id": 3,
+        "type": "credit",
+        "amount": 200,
+        "date": "2024-10-15",
+        "description": "Freelance payment"
+      },
+      {
+        "id": 4,
+        "type": "debit",
+        "amount": 30,
+        "date": "2024-10-14",
+        "description": "Utility bill"
+      }
+    ]
+  },
+  {
+    "tableData" : [
+      {
+        "id": 1,
+        "game_name": "Blackjack",
+        "player_name": "Blackjack",
+        "opponent": "Blackjack",
+        "betting_amount": 28
+      },
+      {
+        "id": 2,
+        "game_name": "Rummy",
+        "player_name": "Blackjack",
+        "opponent": "Blackjack",
+        "betting_amount": 34
+      },
+      {
+        "id": 3,
+        "game_name": "Poker",
+        "player_name": "Blackjack",
+        "opponent": "Blackjack",
+        "betting_amount": 45
+      },
+      {
+        "id": 4,
+        "game_name": "Casino War",
+        "player_name": "Blackjack",
+        "opponent": "Blackjack",
+        "betting_amount": 22
+      }
+    ]
+  }
+]

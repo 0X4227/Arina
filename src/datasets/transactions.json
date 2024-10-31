@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "user_profile": "/user.png",
+    "player_name": "Blackjack",
+    "type": "credit",
+    "amount": 100,
+    "date": "2024-10-17",
+    "description": "Salary credited"
+  },
+  {
+    "id": 2,
+    "user_profile": "/user.png",
+    "player_name": "Rachel Parker",
+    "type": "debit",
+    "amount": 50,
+    "date": "2024-10-16",
+    "description": "Grocery shopping"
+  },
+  {
+    "id": 3,
+    "user_profile": "/user.png",
+    "player_name": "David Wilson",
+    "type": "credit",
+    "amount": 200,
+    "date": "2024-10-15",
+    "description": "Freelance payment"
+  },
+  {
+    "id": 4,
+    "user_profile": "/user.png",
+    "player_name": "Charlie Davis",
+    "type": "debit",
+    "amount": 30,
+    "date": "2024-10-14",
+    "description": "Utility bill"
+  },
+  {
+    "id": 5,
+    "user_profile": "/user.png",
+    "player_name": "",
+    "type": "debit",
+    "amount": 30,
+    "date": "2024-10-14",
+    "description": "Utility bill"
+  },
+  {
+    "id": 6,
+    "user_profile": "/user.png",
+    "player_name": "",
+    "type": "credit",
+    "amount": 30,
+    "date": "2024-10-14",
+    "description": "Utility bill"
+  },
+  {
+    "id": 7,
+    "user_profile": "/user.png",
+    "player_name": "",
+    "type": "debit",
+    "amount": 30,
+    "date": "2024-10-14",
+    "description": "Utility bill"
+  },
+  {
+    "id": 8,
+    "user_profile": "/user.png",
+    "player_name": "",
+    "type": "debit",
+    "amount": 30,
+    "date": "2024-10-14",
+    "description": "Utility bill"
+  },
+  {
+    "id": 9,
+    "user_profile": "/user.png",
+    "player_name": "",
+    "type": "debit",
+    "amount": 30,
+    "date": "2024-10-14",
+    "description": "Utility bill"
+  },
+  {
+    "id": 10,
+    "user_profile": "/user.png",
+    "player_name": "",
+    "type": "credit",
+    "amount": 30,
+    "date": "2024-10-14",
+    "description": "Utility bill"
+  }
+  
+]
